@@ -10,13 +10,13 @@
 Приклад роботи:
 Enter number of days to simulate.
 >>> 3
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
 _____________________________________
 O`clock: 7
 
@@ -51,16 +51,13 @@ _____________________________________
 O`clock: 20
 
 Dinner is... Ok. Now I want to sleep.
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
 _____________________________________
 O`clock: 9
 
@@ -95,17 +92,13 @@ _____________________________________
 O`clock: 19
 
 Dinner is... Ok. Now I want to sleep.
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
-*sleep*
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
+sleep
 _____________________________________
 O`clock: 8
 
@@ -141,8 +134,8 @@ _____________________________________
 O`clock: 21
 
 Dinner is... Ok. Now I want to sleep.
-*sleep*
-*sleep*
-*sleep*
+sleep
+sleep
+sleep
 Simulation is ended.
 
