@@ -17,37 +17,37 @@ Enter number of days to simulate.
 *sleep*
 *sleep*
 *sleep*
--------------------------------------
+_____________________________________
 O`clock: 7
 
-**Wow! On time. Let`s grab a bite!**
--------------------------------------
+Wow! On time. Let`s grab a bite!
+_____________________________________
 O`clock: 7
 
-**Commuting to UCU.**
--------------------------------------
+Commuting to UCU.
+_____________________________________
 O`clock: 8
 
 Classes time... Yay...
--------------------------------------
+_____________________________________
 O`clock: 15
 
-**Classes ended.**
--------------------------------------
+Classes ended.
+_____________________________________
 O`clock: 15
 
 Finally, lunch!
--------------------------------------
+_____________________________________
 O`clock: 17
 
-**Commuting home!
-Yoooo, bus!**
--------------------------------------
+Commuting home!
+Yoooo, bus!
+_____________________________________
 O`clock: 17
 
-<!-- Let`s relax and watch some Ntflix.
-Wow! What wonderful series! -->
--------------------------------------
+Let`s relax and watch some Ntflix.
+Wow! What wonderful series!
+_____________________________________
 O`clock: 20
 
 Dinner is... Ok. Now I want to sleep.
@@ -61,40 +61,40 @@ Dinner is... Ok. Now I want to sleep.
 *sleep*
 *sleep*
 *sleep*
--------------------------------------
+_____________________________________
 O`clock: 9
 
 F*CK! I have passed a class! I have to run.
--------------------------------------
+_____________________________________
 O`clock: 9
 
-**Commuting to UCU.
-Yoooo, bus!**
--------------------------------------
+Commuting to UCU.
+Yoooo, bus!
+_____________________________________
 O`clock: 9
 
 Classes time... Yay...
--------------------------------------
+_____________________________________
 O`clock: 15
 
-**Classes ended.**
--------------------------------------
+Classes ended.
+_____________________________________
 O`clock: 15
 
 Finally, lunch!
--------------------------------------
+_____________________________________
 O`clock: 17
 
-**Commuting home!**
--------------------------------------
+Commuting home!
+_____________________________________
 O`clock: 18
 
-**Let`s relax and watch some Ntflix.
-Ehh... Nothing especial...**
--------------------------------------
+Let`s relax and watch some Ntflix.
+Ehh... Nothing especial...
+_____________________________________
 O`clock: 19
 
-**Dinner is... Ok. Now I want to sleep.**
+Dinner is... Ok. Now I want to sleep.
 *sleep*
 *sleep*
 *sleep*
@@ -106,37 +106,37 @@ O`clock: 19
 *sleep*
 *sleep*
 *sleep*
--------------------------------------
+_____________________________________
 O`clock: 8
 
-**Shit. One hour later... Don`t have time for breakfast.**
--------------------------------------
+Shit. One hour later... Don`t have time for breakfast.
+_____________________________________
 O`clock: 8
 
-**Commuting to UCU.
-Yoooo, bus!**
--------------------------------------
+Commuting to UCU.
+Yoooo, bus!
+_____________________________________
 O`clock: 8
 
 Classes time... Yay...
--------------------------------------
+_____________________________________
 O`clock: 15
 
-**Classes ended.**
--------------------------------------
+Classes ended.
+_____________________________________
 O`clock: 15
 
 Finally, lunch!
--------------------------------------
+_____________________________________
 O`clock: 17
 
-**Commuting home!**
--------------------------------------
+Commuting home!
+_____________________________________
 O`clock: 18
 
-**Let`s relax and watch some Ntflix.
-Wow! What wonderful series!**
--------------------------------------
+Let`s relax and watch some Ntflix.
+Wow! What wonderful series!
+_____________________________________
 
 O`clock: 21
 
